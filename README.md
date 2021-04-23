@@ -5,10 +5,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguibc&layout=compact&langs_count=6&theme=nord">
 </p>
 
-<div>
-  <strong>How to reach me:</strong>
-  <p align="left">
-    <a href="mailto:joaoguibc@gmail.com" alt="Gmail" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<strong>How to reach me:</strong>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-da-rocha-696124206/" alt="Linkedin" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="left">
+  <a href="mailto:joaoguibc@gmail.com" alt="Gmail" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
