@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Guilherme</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm João Guilherme</h1>
 
 <p align="center">
   <img height="160em" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=joaoguibc&show_icons=true&theme=nord">
